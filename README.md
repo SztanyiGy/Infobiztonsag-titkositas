@@ -1,4 +1,4 @@
-Playfair cipher rövid magyarázata
+Playfair cipher
 
 A Playfair cipher egy klasszikus titkosítási módszer, amelyet a 19. században fejlesztettek ki. Az algoritmus különlegessége, hogy nem egyes betűket titkosít, hanem betűpárokat (digraphokat). Ez biztonságosabbá teszi, mint az egyszerűbb módszereket, például a Caesar cipher titkosítást.
 
