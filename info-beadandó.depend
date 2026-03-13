@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1773392047 source:c:\users\user\documents\bsc-egyetem\4.fÉlÉv\informatika biztonság\info-beadandó\main.c
+	<stdio.h>
+	"playfair.h"
+
+1773392047 c:\users\user\documents\bsc-egyetem\4.fÉlÉv\informatika biztonság\info-beadandó\playfair.h
+
+1773392047 source:c:\users\user\documents\bsc-egyetem\4.fÉlÉv\informatika biztonság\info-beadandó\playfair.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"playfair.h"
+
